@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#AB",
+    "DLC",
+    "BAB"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bone_block"
+    },
+    "A": {
+      "item": "minecraft:arrow"
+    },
+    "B": {
+      "item": "minecraft:bone"
+    },
+    "D": {
+      "item": "minecraft:dispenser"
+    },
+    "L": {
+      "item": "frozensentinel:blanksigil"
+    },
+    "C": {
+      "item": "minecraft:coal_block"
+    }
+  },
+  "result": {
+    "item": "frozensentinel:gunnersigil",
+    "count": 1
+  }
+}

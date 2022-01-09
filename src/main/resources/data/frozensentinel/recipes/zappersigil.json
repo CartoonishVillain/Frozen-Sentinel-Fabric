@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cLc",
+    "cMc",
+    "FGF"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "L": {
+      "item": "minecraft:lightning_rod"
+    },
+    "M": {
+      "item": "frozensentinel:blanksigil"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "frozensentinel:zappersigil",
+    "count": 1
+  }
+}

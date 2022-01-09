@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "frozensentinel",
+  "version": "${version}",
+
+  "name": "Frozen Sentinel",
+  "description": "Snowmen enhanced by the power of friendship",
+
+  "authors": [
+    "Cartoonish Villain"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "MIT",
+  "icon": "assets/frozensentinel/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.cartoonishvillain.frozensentinel.FrozenSentinel"
+    ],
+    "client": [
+      "com.cartoonishvillain.frozensentinel.client.RenderManager"
+    ]
+  },
+  "mixins": [
+    "frozensentinel.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17",
+    "coldsnaphorde": ">=1.1-1.18"
+  }
+}

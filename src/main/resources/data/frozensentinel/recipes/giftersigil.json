@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#G#",
+    "CLZ",
+    "#G#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:snowball"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "C": {
+      "item": "minecraft:campfire"
+    },
+    "L": {
+      "item": "frozensentinel:blanksigil"
+    },
+    "Z": {
+      "item": "coldsnaphorde:present"
+    }
+  },
+  "result": {
+    "item": "frozensentinel:giftersigil",
+    "count": 1
+  }
+}

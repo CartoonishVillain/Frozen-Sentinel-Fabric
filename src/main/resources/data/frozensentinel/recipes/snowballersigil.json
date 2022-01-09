@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "DLG",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:snowball"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "D": {
+      "item": "minecraft:dispenser"
+    },
+    "L": {
+      "item": "frozensentinel:blanksigil"
+    },
+    "G": {
+      "item": "minecraft:lever"
+    }
+  },
+  "result": {
+    "item": "frozensentinel:snowballersigil",
+    "count": 1
+  }
+}

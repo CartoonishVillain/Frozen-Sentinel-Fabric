@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P#",
+    "RLR",
+    "FGF"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:snowball"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "L": {
+      "item": "frozensentinel:blanksigil"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "frozensentinel:brawlersigil",
+    "count": 1
+  }
+}

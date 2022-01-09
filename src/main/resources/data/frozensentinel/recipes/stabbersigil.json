@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#RB",
+    "ILV",
+    "GRS"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:spider_eye"
+    },
+    "R": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "B": {
+      "item": "minecraft:bone"
+    },
+    "I": {
+      "item": "minecraft:iron_sword"
+    },
+    "L": {
+      "item": "frozensentinel:blanksigil"
+    },
+    "V": {
+      "item": "minecraft:redstone"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "frozensentinel:stabbersigil",
+    "count": 1
+  }
+}

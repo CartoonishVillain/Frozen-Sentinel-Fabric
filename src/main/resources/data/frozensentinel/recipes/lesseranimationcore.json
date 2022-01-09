@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#C#",
+    "K#K",
+    "#K#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:snow_block"
+    },
+    "C": {
+      "item": "minecraft:coal_block"
+    },
+    "K": {
+      "item": "minecraft:coal"
+    }
+  },
+  "result": {
+    "item": "frozensentinel:lesseranimationcore",
+    "count": 1
+  }
+}
